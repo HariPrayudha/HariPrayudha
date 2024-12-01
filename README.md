@@ -1,11 +1,10 @@
 # Hi there 👋
 
-I'm [Nama Kamu], a passionate front-end developer 🚀.
+I'm Hari Prayudha, a passionate front-end developer 🚀.
 
-- 🔭 I’m currently working on [Proyek Terbaru Kamu].
-- 🌱 I’m learning [Topik yang Sedang Kamu Pelajari].
-- 💬 Ask me about [Keahlian yang Kamu Miliki].
-- 📫 How to reach me: [Email atau Link Kontak].
+- 🔭 I’m currently working on PT. Era Cipta Digital.
+- 🌱 I’m learning SOftware Engineer.
+- 📫 How to reach me: prayudahari@gmail.com.
 
 ### My Tech Stack:
 - 💻 HTML | CSS | JavaScript
