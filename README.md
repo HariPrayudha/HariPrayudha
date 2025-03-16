@@ -45,3 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariprayudha&theme=algolia" alt="hariprayudha" />
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/HariPrayudha/HariPrayudha/output/snake.svg" alt="Snake animation" />
+</p>
