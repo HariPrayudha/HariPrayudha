@@ -31,6 +31,7 @@
 </p>
 
 <h3 align="center">My GitHub Stats:</h3>
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariPrayudha&theme=2077
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=hariprayudha&show_icons=true&locale=en" alt="hariprayudha" /></td>
