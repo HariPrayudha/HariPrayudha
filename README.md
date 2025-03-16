@@ -31,15 +31,17 @@
 </p>
 
 <h3 align="center">My GitHub Stats:</h3>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariPrayudha&theme=2077" alt="hariprayudha" /></p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariPrayudha&theme=algolia" />
+</p>
 <table align="center">
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HariPrayudha&theme=2077" alt="hariprayudha" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HariPrayudha&theme=2077" alt="hariprayudha" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HariPrayudha&theme=algolia" alt="hariprayudha" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HariPrayudha&theme=algolia" alt="hariprayudha" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariprayudha&theme=dark" alt="hariprayudha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariprayudha&theme=algolia" alt="hariprayudha" />
 </p>
 
