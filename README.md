@@ -41,6 +41,13 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HariPrayudha&theme=algolia" alt="hariprayudha" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HariPrayudha&theme=algolia&utcOffset=8" alt="hariprayudha" /></td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariprayudha&theme=algolia" alt="hariprayudha" />
 </p>
