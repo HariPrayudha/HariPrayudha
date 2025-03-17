@@ -1,7 +1,4 @@
-[![An image of @hariprayudha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hariprayudha)](https://holopin.io/@hariprayudha)
-
-<h1 align="center">Hi 👋, I'm Hari Prayudha</h1>
-<h3 align="center">a passionate front-end developer 🚀 with a love for building creative and functional web solutions.</h3>
+![Header](./github-header-image.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hariprayudha&label=Profile%20views&color=0e75b6&style=flat" alt="hariprayudha" /> </p>
 
