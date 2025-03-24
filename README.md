@@ -72,20 +72,19 @@
 </div>
 
 <h3 align="center">My GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=HariPrayudha&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF" />
+</p>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HariPrayudha&theme=algolia" />
 </p>
-<table align="center">
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HariPrayudha&theme=algolia" alt="hariprayudha" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HariPrayudha&theme=algolia" alt="hariprayudha" /></td>
-  </tr>
-</table>
 
 <table align="center">
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HariPrayudha&theme=algolia" alt="hariprayudha" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HariPrayudha&theme=algolia&utcOffset=8" alt="hariprayudha" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HariPrayudha&theme=algolia" alt="hariprayudha" /></td>
   </tr>
 </table>
 
